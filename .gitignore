@@ -1,0 +1,6 @@
+bin/
+testbin/
+*/bin/
+*.o
+*.swp
+.DS_Store
